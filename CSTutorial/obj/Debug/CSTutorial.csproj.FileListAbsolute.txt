@@ -1,0 +1,7 @@
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\bin\Debug\CSTutorial.exe.config
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\bin\Debug\CSTutorial.exe
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\bin\Debug\CSTutorial.pdb
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\obj\Debug\CSTutorial.csprojResolveAssemblyReference.cache
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\obj\Debug\CSTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\obj\Debug\CSTutorial.exe
+C:\Users\Potato\Desktop\C# Tutorial\CSTutorial\CSTutorial\obj\Debug\CSTutorial.pdb
